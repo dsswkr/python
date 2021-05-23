@@ -1,0 +1,7 @@
+print("123")
+print("Hello!")
+print("")
+print("a")
+print("   ")
+print("I'm a good boy.")
+print('저 "회색곰"은 어디에서 왔을까요.')
